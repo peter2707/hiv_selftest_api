@@ -1,0 +1,364 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "JohnDoe",
+            "email": "john.doe@example.com",
+            "password": "password123",
+            "type": "user"
+        },
+        {
+            "id": 2,
+            "username": "JaneSmith",
+            "email": "jane.smith@example.com",
+            "password": "password456",
+            "type": "user"
+        },
+        {
+            "id": 3,
+            "username": "Admin_Adam",
+            "email": "admin.adam@example.com",
+            "password": "adminpass1",
+            "type": "admin"
+        },
+        {
+            "id": 4,
+            "username": "Admin_Jessica",
+            "email": "admin.jessica@example.com",
+            "password": "adminpass2",
+            "type": "admin"
+        },
+        {
+            "id": 5,
+            "username": "Admin_Robert",
+            "email": "admin.robert@example.com",
+            "password": "adminpass3",
+            "type": "admin"
+        },
+        {
+            "id": 6,
+            "username": "SamuelJohnson",
+            "email": "samuel.johnson@example.com",
+            "password": "password6",
+            "type": "user"
+        },
+        {
+            "id": 7,
+            "username": "RebeccaHunt",
+            "email": "rebecca.hunt@example.com",
+            "password": "password7",
+            "type": "user"
+        },
+        {
+            "id": 8,
+            "username": "MartinGale",
+            "email": "martin.gale@example.com",
+            "password": "password8",
+            "type": "user"
+        },
+        {
+            "id": 9,
+            "username": "LucyMorris",
+            "email": "lucy.morris@example.com",
+            "password": "password9",
+            "type": "user"
+        },
+        {
+            "id": 10,
+            "username": "EthanKnight",
+            "email": "ethan.knight@example.com",
+            "password": "password10",
+            "type": "user"
+        },
+        {
+            "id": 11,
+            "username": "OliviaPark",
+            "email": "olivia.park@example.com",
+            "password": "password11",
+            "type": "user"
+        },
+        {
+            "id": 12,
+            "username": "NathanLee",
+            "email": "nathan.lee@example.com",
+            "password": "password12",
+            "type": "user"
+        },
+        {
+            "id": 13,
+            "username": "SophiaJones",
+            "email": "sophia.jones@example.com",
+            "password": "password13",
+            "type": "user"
+        },
+        {
+            "id": 14,
+            "username": "BenjaminClark",
+            "email": "benjamin.clark@example.com",
+            "password": "password14",
+            "type": "user"
+        },
+        {
+            "id": 15,
+            "username": "EmmaWilson",
+            "email": "emma.wilson@example.com",
+            "password": "password15",
+            "type": "user"
+        },
+        {
+            "id": 16,
+            "username": "MichaelBrown",
+            "email": "michael.brown@example.com",
+            "password": "password16",
+            "type": "user"
+        },
+        {
+            "id": 17,
+            "username": "LilyTaylor",
+            "email": "lily.taylor@example.com",
+            "password": "password17",
+            "type": "user"
+        },
+        {
+            "id": 18,
+            "username": "DanielEvans",
+            "email": "daniel.evans@example.com",
+            "password": "password18",
+            "type": "user"
+        },
+        {
+            "id": 19,
+            "username": "ZoeHarris",
+            "email": "zoe.harris@example.com",
+            "password": "password19",
+            "type": "user"
+        },
+        {
+            "id": 20,
+            "username": "WilliamRoberts",
+            "email": "william.roberts@example.com",
+            "password": "password20",
+            "type": "user"
+        }
+    ],
+    "emailReminders": [
+        {
+            "userId": 1,
+            "email": "john.doe@example.com",
+            "frequency": "Weekly"
+        },
+        {
+            "userId": 2,
+            "email": "jane.smith@example.com",
+            "frequency": "Monthly"
+        },
+        {
+            "userId": 3,
+            "email": "admin.one@example.com",
+            "frequency": "Yearly"
+        },
+        {
+            "userId": 4,
+            "email": "admin.two@example.com",
+            "frequency": "Weekly"
+        },
+        {
+            "userId": 5,
+            "email": "admin.three@example.com",
+            "frequency": "Yearly"
+        },
+        {
+            "userId": 6,
+            "email": "samuel.johnson@example.com",
+            "frequency": "Weekly"
+        },
+        {
+            "userId": 7,
+            "email": "rebecca.hunt@example.com",
+            "frequency": "Monthly"
+        },
+        {
+            "userId": 8,
+            "email": "martin.gale@example.com",
+            "frequency": "Yearly"
+        },
+        {
+            "userId": 9,
+            "email": "lucy.morris@example.com",
+            "frequency": "Monthly"
+        },
+        {
+            "userId": 10,
+            "email": "ethan.knight@example.com",
+            "frequency": "Weekly"
+        },
+        {
+            "userId": 11,
+            "email": "olivia.park@example.com",
+            "frequency": "Yearly"
+        },
+        {
+            "userId": 12,
+            "email": "nathan.lee@example.com",
+            "frequency": "Monthly"
+        },
+        {
+            "userId": 13,
+            "email": "sophia.jones@example.com",
+            "frequency": "Weekly"
+        },
+        {
+            "userId": 14,
+            "email": "benjamin.clark@example.com",
+            "frequency": "Yearly"
+        },
+        {
+            "userId": 15,
+            "email": "emma.wilson@example.com",
+            "frequency": "Monthly"
+        },
+        {
+            "userId": 16,
+            "email": "michael.brown@example.com",
+            "frequency": "Weekly"
+        },
+        {
+            "userId": 17,
+            "email": "lily.taylor@example.com",
+            "frequency": "Yearly"
+        },
+        {
+            "userId": 18,
+            "email": "daniel.evans@example.com",
+            "frequency": "Monthly"
+        },
+        {
+            "userId": 19,
+            "email": "zoe.harris@example.com",
+            "frequency": "Weekly"
+        },
+        {
+            "userId": 20,
+            "email": "william.roberts@example.com",
+            "frequency": "Yearly"
+        }
+    ],
+    "hivFormData": {
+        "testSubmissionCount": 1200,
+        "testKitPurchasedCount": 800,
+        "newCasesCount": 50,
+        "monthlyData": {
+            "labels": ["January", "February", "March", "April", "May"],
+            "datasets": [
+                {
+                    "label": "Test Submission",
+                    "data": [100, 110, 105, 115, 120],
+                    "borderColor": "rgba(75, 192, 192, 1)"
+                },
+                {
+                    "label": "Test Kit Purchased",
+                    "data": [80, 90, 85, 88, 86],
+                    "borderColor": "rgba(153, 102, 255, 1)"
+                },
+                {
+                    "label": "New Cases",
+                    "data": [50, 60, 55, 74, 68],
+                    "borderColor": "rgba(255, 99, 132, 1)"
+                }
+            ]
+        },
+        "positiveNegativeData": {
+            "labels": ["Positive", "Negative"],
+            "datasets": [
+                {
+                    "data": [15, 85],
+                    "backgroundColor": ["#FF6384", "#36A2EB"]
+                }
+            ]
+        },
+        "casesByStateData": {
+            "labels": [
+                "New South Wales",
+                "Victoria",
+                "Queensland",
+                "South Australia",
+                "Western Australia",
+                "Northern Territory",
+                "Tasmania"
+            ],
+            "datasets": [
+                {
+                    "label": "Cases",
+                    "data": [300, 250, 100, 50, 150, 40, 50],
+                    "backgroundColor": "rgba(255, 99, 132, 0.2)"
+                }
+            ]
+        }
+    },
+    "accountsData": {
+        "userCount": 25,
+        "userTypeCount": {
+            "user": 20,
+            "admin": 3
+        },
+        "newUserCount": 5,
+        "monthlyUsersData": {
+            "labels": ["January", "February", "March", "April", "May"],
+            "datasets": [
+                {
+                    "label": "Total Users",
+                    "data": [2, 4, 9, 10, 25],
+                    "borderColor": "rgba(255, 206, 86, 1)"
+                },
+                {
+                    "label": "New Users",
+                    "data": [1, 3, 5, 4, 5],
+                    "borderColor": "rgba(75, 192, 192, 1)"
+                }
+            ]
+        },
+        "userTypesPieData": {
+            "labels": ["User", "Admin"],
+            "datasets": [
+                {
+                    "data": [20, 3],
+                    "backgroundColor": ["#FF6384", "#36A2EB"]
+                }
+            ]
+        }
+    },
+    "webTrafficData": {
+        "pageVisits": 154,
+        "sessions": 89,
+        "avgTimeSpent": "3m 45s",
+        "dailyPageVisitsData": {
+            "labels": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+            "datasets": [
+                {
+                    "label": "Page Visits",
+                    "data": [50, 43, 67, 89, 155],
+                    "borderColor": "rgba(153, 102, 255, 1)"
+                }
+            ]
+        },
+        "dailySessionsBarData": {
+            "labels": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+            "datasets": [
+                {
+                    "label": "Sessions",
+                    "data": [15, 23, 50, 65, 89],
+                    "backgroundColor": "rgba(255, 99, 132, 0.2)"
+                }
+            ]
+        },
+        "deviceTypesPieData": {
+            "labels": ["Mobile", "Desktop", "Tablet"],
+            "datasets": [
+                {
+                    "data": [12, 25, 5],
+                    "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56"]
+                }
+            ]
+        }
+    }
+}
