@@ -2,77 +2,77 @@
     "users": [
         {
             "id": 1,
-            "username": "JohnDoe",
+            "name": "John Doe",
             "email": "john.doe@example.com",
             "password": "password123",
             "type": "user"
         },
         {
             "id": 2,
-            "username": "JaneSmith",
+            "name": "Jane Smith",
             "email": "jane.smith@example.com",
             "password": "password456",
             "type": "user"
         },
         {
             "id": 3,
-            "username": "SamuelJohnson",
+            "name": "Samuel Johnson",
             "email": "samuel.johnson@example.com",
             "password": "password6",
             "type": "user"
         },
         {
             "id": 4,
-            "username": "RebeccaHunt",
+            "name": "Rebecca Hunt",
             "email": "rebecca.hunt@example.com",
             "password": "password7",
             "type": "user"
         },
         {
             "id": 5,
-            "username": "MartinGale",
+            "name": "Martin Gale",
             "email": "martin.gale@example.com",
             "password": "password8",
             "type": "user"
         },
         {
             "id": 6,
-            "username": "LucyMorris",
+            "name": "Lucy Morris",
             "email": "lucy.morris@example.com",
             "password": "password9",
             "type": "user"
         },
         {
             "id": 7,
-            "username": "EthanKnight",
+            "name": "Ethan Knight",
             "email": "ethan.knight@example.com",
             "password": "password10",
             "type": "user"
         },
         {
             "id": 8,
-            "username": "OliviaPark",
+            "name": "Olivia Park",
             "email": "olivia.park@example.com",
             "password": "password11",
             "type": "user"
         },
         {
             "id": 9,
-            "username": "NathanLee",
+            "name": "Nathan Lee",
             "email": "nathan.lee@example.com",
             "password": "password12",
             "type": "user"
         },
         {
             "id": 10,
-            "username": "SophiaJones",
+            "name": "Sophia Jones",
             "email": "sophia.jones@example.com",
             "password": "password13",
             "type": "user"
         },
         {
             "id": 11,
-            "username": "Admin_Robert",
+            "name": "Admin Robert",
             "email": "admin.robert@example.com",
             "password": "adminpass",
             "type": "admin"
