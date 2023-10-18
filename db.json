@@ -80,52 +80,52 @@
     ],
     "emailReminders": [
         {
-            "userId": 1,
+            "id": 1,
             "email": "john.doe@example.com",
             "frequency": "Weekly"
         },
         {
-            "userId": 2,
+            "id": 2,
             "email": "jane.smith@example.com",
             "frequency": "Monthly"
         },
         {
-            "userId": 3,
+            "id": 3,
             "email": "samuel.johnson@example.com",
             "frequency": "Weekly"
         },
         {
-            "userId": 4,
+            "id": 4,
             "email": "rebecca.hunt@example.com",
             "frequency": "Monthly"
         },
         {
-            "userId": 5,
+            "id": 5,
             "email": "martin.gale@example.com",
             "frequency": "Yearly"
         },
         {
-            "userId": 6,
+            "id": 6,
             "email": "lucy.morris@example.com",
             "frequency": "Monthly"
         },
         {
-            "userId": 7,
+            "id": 7,
             "email": "ethan.knight@example.com",
             "frequency": "Weekly"
         },
         {
-            "userId": 8,
+            "id": 8,
             "email": "olivia.park@example.com",
             "frequency": "Yearly"
         },
         {
-            "userId": 9,
+            "id": 9,
             "email": "nathan.lee@example.com",
             "frequency": "Monthly"
         },
         {
-            "userId": 10,
+            "id": 10,
             "email": "sophia.jones@example.com",
             "frequency": "Weekly"
         }
