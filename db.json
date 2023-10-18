@@ -16,129 +16,66 @@
         },
         {
             "id": 3,
-            "username": "Admin_Adam",
-            "email": "admin.adam@example.com",
-            "password": "adminpass1",
-            "type": "admin"
-        },
-        {
-            "id": 4,
-            "username": "Admin_Jessica",
-            "email": "admin.jessica@example.com",
-            "password": "adminpass2",
-            "type": "admin"
-        },
-        {
-            "id": 5,
-            "username": "Admin_Robert",
-            "email": "admin.robert@example.com",
-            "password": "adminpass3",
-            "type": "admin"
-        },
-        {
-            "id": 6,
             "username": "SamuelJohnson",
             "email": "samuel.johnson@example.com",
             "password": "password6",
             "type": "user"
         },
         {
-            "id": 7,
+            "id": 4,
             "username": "RebeccaHunt",
             "email": "rebecca.hunt@example.com",
             "password": "password7",
             "type": "user"
         },
         {
-            "id": 8,
+            "id": 5,
             "username": "MartinGale",
             "email": "martin.gale@example.com",
             "password": "password8",
             "type": "user"
         },
         {
-            "id": 9,
+            "id": 6,
             "username": "LucyMorris",
             "email": "lucy.morris@example.com",
             "password": "password9",
             "type": "user"
         },
         {
-            "id": 10,
+            "id": 7,
             "username": "EthanKnight",
             "email": "ethan.knight@example.com",
             "password": "password10",
             "type": "user"
         },
         {
-            "id": 11,
+            "id": 8,
             "username": "OliviaPark",
             "email": "olivia.park@example.com",
             "password": "password11",
             "type": "user"
         },
         {
-            "id": 12,
+            "id": 9,
             "username": "NathanLee",
             "email": "nathan.lee@example.com",
             "password": "password12",
             "type": "user"
         },
         {
-            "id": 13,
+            "id": 10,
             "username": "SophiaJones",
             "email": "sophia.jones@example.com",
             "password": "password13",
             "type": "user"
         },
         {
-            "id": 14,
-            "username": "BenjaminClark",
-            "email": "benjamin.clark@example.com",
-            "password": "password14",
-            "type": "user"
-        },
-        {
-            "id": 15,
-            "username": "EmmaWilson",
-            "email": "emma.wilson@example.com",
-            "password": "password15",
-            "type": "user"
-        },
-        {
-            "id": 16,
-            "username": "MichaelBrown",
-            "email": "michael.brown@example.com",
-            "password": "password16",
-            "type": "user"
-        },
-        {
-            "id": 17,
-            "username": "LilyTaylor",
-            "email": "lily.taylor@example.com",
-            "password": "password17",
-            "type": "user"
-        },
-        {
-            "id": 18,
-            "username": "DanielEvans",
-            "email": "daniel.evans@example.com",
-            "password": "password18",
-            "type": "user"
-        },
-        {
-            "id": 19,
-            "username": "ZoeHarris",
-            "email": "zoe.harris@example.com",
-            "password": "password19",
-            "type": "user"
-        },
-        {
-            "id": 20,
-            "username": "WilliamRoberts",
-            "email": "william.roberts@example.com",
-            "password": "password20",
-            "type": "user"
+            "id": 11,
+            "username": "Admin_Robert",
+            "email": "admin.robert@example.com",
+            "password": "adminpass",
+            "type": "admin"
         }
     ],
     "emailReminders": [
@@ -154,99 +91,49 @@
         },
         {
             "userId": 3,
-            "email": "admin.one@example.com",
-            "frequency": "Yearly"
-        },
-        {
-            "userId": 4,
-            "email": "admin.two@example.com",
-            "frequency": "Weekly"
-        },
-        {
-            "userId": 5,
-            "email": "admin.three@example.com",
-            "frequency": "Yearly"
-        },
-        {
-            "userId": 6,
             "email": "samuel.johnson@example.com",
             "frequency": "Weekly"
         },
         {
-            "userId": 7,
+            "userId": 4,
             "email": "rebecca.hunt@example.com",
             "frequency": "Monthly"
         },
         {
-            "userId": 8,
+            "userId": 5,
             "email": "martin.gale@example.com",
             "frequency": "Yearly"
         },
         {
-            "userId": 9,
+            "userId": 6,
             "email": "lucy.morris@example.com",
             "frequency": "Monthly"
         },
         {
-            "userId": 10,
+            "userId": 7,
             "email": "ethan.knight@example.com",
             "frequency": "Weekly"
         },
         {
-            "userId": 11,
+            "userId": 8,
             "email": "olivia.park@example.com",
             "frequency": "Yearly"
         },
         {
-            "userId": 12,
+            "userId": 9,
             "email": "nathan.lee@example.com",
             "frequency": "Monthly"
         },
         {
-            "userId": 13,
+            "userId": 10,
             "email": "sophia.jones@example.com",
             "frequency": "Weekly"
-        },
-        {
-            "userId": 14,
-            "email": "benjamin.clark@example.com",
-            "frequency": "Yearly"
-        },
-        {
-            "userId": 15,
-            "email": "emma.wilson@example.com",
-            "frequency": "Monthly"
-        },
-        {
-            "userId": 16,
-            "email": "michael.brown@example.com",
-            "frequency": "Weekly"
-        },
-        {
-            "userId": 17,
-            "email": "lily.taylor@example.com",
-            "frequency": "Yearly"
-        },
-        {
-            "userId": 18,
-            "email": "daniel.evans@example.com",
-            "frequency": "Monthly"
-        },
-        {
-            "userId": 19,
-            "email": "zoe.harris@example.com",
-            "frequency": "Weekly"
-        },
-        {
-            "userId": 20,
-            "email": "william.roberts@example.com",
-            "frequency": "Yearly"
         }
     ],
     "hivFormData": {
-        "testSubmissionCount": 1200,
-        "testKitPurchasedCount": 800,
-        "newCasesCount": 50,
+        "testCount": 1200,
+        "kitCount": 800,
+        "newCases": 50,
         "monthlyData": {
             "labels": ["January", "February", "March", "April", "May"],
             "datasets": [
@@ -256,7 +143,7 @@
                     "borderColor": "rgba(75, 192, 192, 1)"
                 },
                 {
-                    "label": "Test Kit Purchased",
+                    "label": "Kit Purchased",
                     "data": [80, 90, 85, 88, 86],
                     "borderColor": "rgba(153, 102, 255, 1)"
                 },
@@ -267,7 +154,7 @@
                 }
             ]
         },
-        "positiveNegativeData": {
+        "posNegData": {
             "labels": ["Positive", "Negative"],
             "datasets": [
                 {
@@ -276,16 +163,8 @@
                 }
             ]
         },
-        "casesByStateData": {
-            "labels": [
-                "New South Wales",
-                "Victoria",
-                "Queensland",
-                "South Australia",
-                "Western Australia",
-                "Northern Territory",
-                "Tasmania"
-            ],
+        "casesByState": {
+            "labels": ["New South Wales", "Victoria", "Queensland", "South Australia", "Western Australia", "Northern Territory", "Tasmania"],
             "datasets": [
                 {
                     "label": "Cases",
@@ -295,14 +174,14 @@
             ]
         }
     },
-    "accountsData": {
+    "accountData": {
         "userCount": 25,
-        "userTypeCount": {
+        "typeCount": {
             "user": 20,
             "admin": 3
         },
-        "newUserCount": 5,
-        "monthlyUsersData": {
+        "newUsers": 5,
+        "monthlyUsers": {
             "labels": ["January", "February", "March", "April", "May"],
             "datasets": [
                 {
@@ -317,7 +196,7 @@
                 }
             ]
         },
-        "userTypesPieData": {
+        "userTypesPie": {
             "labels": ["User", "Admin"],
             "datasets": [
                 {
@@ -327,21 +206,21 @@
             ]
         }
     },
-    "webTrafficData": {
-        "pageVisits": 154,
+    "webTraffic": {
+        "visits": 154,
         "sessions": 89,
-        "avgTimeSpent": "3m 45s",
-        "dailyPageVisitsData": {
+        "avgTime": "3m 45s",
+        "dailyVisits": {
             "labels": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
             "datasets": [
                 {
-                    "label": "Page Visits",
+                    "label": "Visits",
                     "data": [50, 43, 67, 89, 155],
                     "borderColor": "rgba(153, 102, 255, 1)"
                 }
             ]
         },
-        "dailySessionsBarData": {
+        "dailySessions": {
             "labels": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
             "datasets": [
                 {
@@ -351,7 +230,7 @@
                 }
             ]
         },
-        "deviceTypesPieData": {
+        "deviceTypes": {
             "labels": ["Mobile", "Desktop", "Tablet"],
             "datasets": [
                 {
